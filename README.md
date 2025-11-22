@@ -75,7 +75,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/aboodcs/AI-Powered_CTF_Forensics_Auto-Analyzer.git
-cd forensix-ai
+cd AI-Powered_CTF_Forensics_Auto-Analyzer
 
 # Install dependencies
 pip install -r requirements.txt
