@@ -1,0 +1,12 @@
+This is a test file for ForensiX AI.
+
+Some random content here...
+Lorem ipsum dolor sit amet.
+
+But wait, there's something hidden:
+flag{h3ll0_f0r3ns1x_2024}
+
+Also check this encoded string:
+SGVsbG8gV29ybGQhIFRoaXMgaXMgYmFzZTY0
+
+End of file.
