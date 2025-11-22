@@ -94,23 +94,23 @@ brew install libmagic
 ### Basic Usage
 
 ```bash
-python forensix.py <file_path>
+python ForensiX_AI_main_Engine.py <file_path>
 ```
 
 ### Examples
 
 ```bash
 # Analyze an image
-python forensix.py suspicious_image.png
+python ForensiX_AI_main_Engine.py suspicious_image.png
 
 # Analyze a network capture
-python forensix.py traffic.pcap
+python ForensiX_AI_main_Engine.py traffic.pcap
 
 # Analyze a text file
-python forensix.py encoded_message.txt
+python ForensiX_AI_main_Engine.py encoded_message.txt
 
 # Analyze any unknown file
-python forensix.py mystery_file.bin
+python ForensiX_AI_main_Engine.py mystery_file.bin
 ```
 
 ### Output
@@ -153,7 +153,7 @@ ForensiX generates:
 ## 🏗️ Architecture
 
 ```
-ForensiX AI
+ForensiX_AI_main_Engine.py
 │
 ├── 🎯 Core Engine
 │   ├── File Type Detector
@@ -240,12 +240,6 @@ Contributions are welcome! Here’s how you can help:
 
 -----
 
-## 📜 License
-
-This project is licensed under the MIT License - see the <LICENSE> file for details.
-
------
-
 ## 🙏 Acknowledgments
 
 - Inspired by the CTF community
@@ -256,9 +250,8 @@ This project is licensed under the MIT License - see the <LICENSE> file for deta
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: <https://github.com/yourusername/forensix-ai>
+**Your Name** - [abdulrehman]
+Project Link: <https://github.com/aboodcs/AI-Powered_CTF_Forensics_Auto-Analyzer>
 
 -----
 
