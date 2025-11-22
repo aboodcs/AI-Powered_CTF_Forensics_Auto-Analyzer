@@ -74,7 +74,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/forensix-ai.git
+git clone https://github.com/aboodcs/AI-Powered_CTF_Forensics_Auto-Analyzer.git
 cd forensix-ai
 
 # Install dependencies
